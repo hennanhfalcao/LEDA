@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-16T17:17:27.320-0300</date>
+  <logger>HENNAN HEIM FALCAO</logger>
+  <level>FINE</level>
+  <message>File 122110048-HENNAN HEIM FALCAO.zip was received. It was sent by HENNAN HEIM FALCAO from IP 172.20.10.2 at 16-10-2023 17*17*27</message>
+</record>
