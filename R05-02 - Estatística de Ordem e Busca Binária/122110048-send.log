@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-01T22:02:09.391-0300</date>
+  <logger>HENNAN HEIM FALCAO</logger>
+  <level>FINE</level>
+  <message>File 122110048-HENNAN HEIM FALCAO.zip was received. It was sent by HENNAN HEIM FALCAO from IP 192.168.0.5 at 01-09-2023 22*02*09</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-02T15:31:14.945-0300</date>
+  <logger>HENNAN HEIM FALCAO</logger>
+  <level>FINE</level>
+  <message>File 122110048-HENNAN HEIM FALCAO.zip was received. It was sent by HENNAN HEIM FALCAO from IP 192.168.0.5 at 02-09-2023 15*31*14</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-02T15:50:25.596-0300</date>
+  <logger>HENNAN HEIM FALCAO</logger>
+  <level>FINE</level>
+  <message>File 122110048-HENNAN HEIM FALCAO.zip was received. It was sent by HENNAN HEIM FALCAO from IP 192.168.0.5 at 02-09-2023 15*50*25</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-05T16:57:28.414-0300</date>
+  <logger>HENNAN HEIM FALCAO</logger>
+  <level>FINE</level>
+  <message>File 122110048-HENNAN HEIM FALCAO.zip was received. It was sent by HENNAN HEIM FALCAO from IP 192.168.0.5 at 05-09-2023 16*57*28</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-05T20:14:29.656-0300</date>
+  <logger>HENNAN HEIM FALCAO</logger>
+  <level>FINE</level>
+  <message>File 122110048-HENNAN HEIM FALCAO.zip was received. It was sent by HENNAN HEIM FALCAO from IP 192.168.0.5 at 05-09-2023 20*14*29</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-05T20:19:27.465-0300</date>
+  <logger>HENNAN HEIM FALCAO</logger>
+  <level>FINE</level>
+  <message>File 122110048-HENNAN HEIM FALCAO.zip was received. It was sent by HENNAN HEIM FALCAO from IP 192.168.0.5 at 05-09-2023 20*19*27</message>
+</record>
